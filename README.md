@@ -1,0 +1,1 @@
+# Fault-Prediction-Method-of-Electric-Vehicle-Charging-Pile-Based-on-Hierarchical-Attention-Mechanism
